@@ -2,6 +2,9 @@
 
 Ready to ace your GED®? Click that “Start Test” button to dive into our free practice test. These questions pinpoint exactly what to study. They’re your roadmap to success.
 
+<img width="1836" height="268" alt="image" src="https://github.com/user-attachments/assets/f4c59a2b-bcca-4004-b53d-a71c1eaab083" />
+
+
 Keep reading for GED® insights, and check out our prep resources below.  
 - [GED Online Course](#)  
 - [GED Study Guide](#)  
