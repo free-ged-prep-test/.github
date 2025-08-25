@@ -6,17 +6,17 @@ Ready to ace your GED®? Click that “Start Test” button to dive into our fre
 
 
 Keep reading for GED® insights, and check out our prep resources below.  
-- [GED Online Course](#)  
-- [GED Study Guide](#)  
-- [GED Flashcards](#)  
-- [GED Question of the Day](#)  
-- [GED Practice Tests by Subject](#)
+- [GED Online Course]
+- [GED Study Guide]
+- [GED Flashcards]
+- [GED Question of the Day]
+- [GED Practice Tests by Subject]
 
 Need targeted practice? Pick a subject below to jump into a subject-specific GED® test.  
-- [GED Mathematical Reasoning Practice Test](#)  
-- [GED ELA Practice Test](#)  
-- [GED Science Practice Test](#)  
-- [GED Social Studies Practice Test](#)  
+- [GED Mathematical Reasoning Practice Test]
+- [GED ELA Practice Test]
+- [GED Science Practice Test]
+- [GED Social Studies Practice Test]
 
 ## What is the GED® Test?
 
